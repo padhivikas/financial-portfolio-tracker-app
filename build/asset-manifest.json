@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ad85314.chunk.css",
-    "main.js": "/static/js/main.e2efdd01.chunk.js",
-    "main.js.map": "/static/js/main.e2efdd01.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e44114ba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e44114ba.js.map",
-    "static/js/2.0f23a92e.chunk.js": "/static/js/2.0f23a92e.chunk.js",
-    "static/js/2.0f23a92e.chunk.js.map": "/static/js/2.0f23a92e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.44d65cb50cf53ab722c0bc1423744228.js": "/precache-manifest.44d65cb50cf53ab722c0bc1423744228.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7ad85314.chunk.css.map": "/static/css/main.7ad85314.chunk.css.map",
-    "static/js/2.0f23a92e.chunk.js.LICENSE.txt": "/static/js/2.0f23a92e.chunk.js.LICENSE.txt"
+    "main.css": "/financial-portfolio-tracker-app/static/css/main.7ad85314.chunk.css",
+    "main.js": "/financial-portfolio-tracker-app/static/js/main.b8ca8b8f.chunk.js",
+    "main.js.map": "/financial-portfolio-tracker-app/static/js/main.b8ca8b8f.chunk.js.map",
+    "runtime-main.js": "/financial-portfolio-tracker-app/static/js/runtime-main.27eb9613.js",
+    "runtime-main.js.map": "/financial-portfolio-tracker-app/static/js/runtime-main.27eb9613.js.map",
+    "static/js/2.3fe398ee.chunk.js": "/financial-portfolio-tracker-app/static/js/2.3fe398ee.chunk.js",
+    "static/js/2.3fe398ee.chunk.js.map": "/financial-portfolio-tracker-app/static/js/2.3fe398ee.chunk.js.map",
+    "index.html": "/financial-portfolio-tracker-app/index.html",
+    "precache-manifest.35403969c7154bdb7ab16f572e221ba0.js": "/financial-portfolio-tracker-app/precache-manifest.35403969c7154bdb7ab16f572e221ba0.js",
+    "service-worker.js": "/financial-portfolio-tracker-app/service-worker.js",
+    "static/css/main.7ad85314.chunk.css.map": "/financial-portfolio-tracker-app/static/css/main.7ad85314.chunk.css.map",
+    "static/js/2.3fe398ee.chunk.js.LICENSE.txt": "/financial-portfolio-tracker-app/static/js/2.3fe398ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e44114ba.js",
-    "static/js/2.0f23a92e.chunk.js",
+    "static/js/runtime-main.27eb9613.js",
+    "static/js/2.3fe398ee.chunk.js",
     "static/css/main.7ad85314.chunk.css",
-    "static/js/main.e2efdd01.chunk.js"
+    "static/js/main.b8ca8b8f.chunk.js"
   ]
 }
