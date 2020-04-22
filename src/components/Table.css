@@ -1,0 +1,44 @@
+#mystocks {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 85%;
+
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+#mystocks table {
+    border: 1px solid #ddd;
+}
+  
+#mystocks td, #mystocks th {
+    /* border: 1px solid #ddd; */
+    /* border: 0px solid #E1E1E1; */
+    padding: 8px;
+}
+  
+#mystocks tr:nth-child(even){background-color: #f2f2f2;}
+  
+#mystocks tr:hover {background-color: #ddd;}
+  
+#mystocks th {
+    padding: 10px 20px;
+    text-align: left;
+    background-color: #1C7ACA;
+    color: white;
+}
+
+#mystocks h2 {
+    text-align: left;
+    margin: 1em 0;
+}
+
+#mystocks button {
+    background-color: red;
+    padding: 0 20px;
+    margin: 0 20px;
+    color: white;
+
+    outline: none;
+}
